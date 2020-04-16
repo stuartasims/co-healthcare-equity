@@ -19,7 +19,8 @@ Python 3.7
 ### Packages
 Jupyter
 Geopandas
-
+matplotlib
+descartes
 
 ## Launch
 
@@ -30,9 +31,9 @@ Geopandas
 ### Data 
 
 -Input
-    - [Healthcare facilities](https://opendata.arcgis.com/datasets/914bc3a28a644f95b13829128e69ede4_0.geojson)
+    - [Healthcare facilities](https://data-cdphe.opendata.arcgis.com/datasets/cdphe-health-facilities/data?geometry=-123.085%2C35.553%2C-81.271%2C41.560)
         - GeoJSON : https://opendata.arcgis.com/datasets/914bc3a28a644f95b13829128e69ede4_0.geojson
-    - [American Community Survey 2018 Blocks](https://data-cdphe.opendata.arcgis.com/datasets/cdphe-health-facilities?geometry=-123.085%2C35.553%2C-81.271%2C41.560)
+    - [American Community Survey 2018 Blocks](https://data.colorado.gov/Demographics/Census-Block-Groups-in-Colorado-2018/ge9s-ra8y)
         - GeoJSON : https://data.colorado.gov/resource/ge9s-ra8y.geojson
 
 
