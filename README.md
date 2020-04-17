@@ -22,7 +22,8 @@ Geopandas
 matplotlib
 descartes
 folium
-
+seaborn
+matplotlib
 
 
 
