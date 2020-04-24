@@ -39,7 +39,7 @@ matplotlib
         - GeoJSON : https://data.colorado.gov/resource/ge9s-ra8y.geojson
 -Output
 
-    -Indexed (among colorado as a whole) black/african american household concentrations at different bins (1x-5x, 5-10x, 10-13x, 13x+)
+    -Indexed (among colorado as a whole) race/ethnicity household concentrations at high indexing blocks (top 10% blocks using index values)
     -Clipped point features among blocks with 1.01+ index of black/african american households
     -map html containing the raw html of the folium frame in the notebook
 
@@ -49,7 +49,8 @@ matplotlib
     - Health Equity Fact Sheets
         - These fact sheets highlight measured inequities among health indicators among race/ethnicity groups in Colorado
     
-- Images for some context in visualizations notebook 
+- Figures
+    -Images for some context in visualizations notebook 
 
 ### Code
 
@@ -60,12 +61,13 @@ matplotlib
 
 ## Project status 
 
-In active development. 4/15/2020 release is first draft.
+In active development. 4/24/2020 release is first public-facing draft
 
 
 ## Other information
 
  - [Recent news on Black / African American Inequity exposed by COVID-19](https://www.npr.org/sections/coronavirus-live-updates/2020/04/10/832039813/why-misinformation-and-distrust-is-making-covid-19-more-dangerous-for-black-amer)
+ - 
  
 
  
