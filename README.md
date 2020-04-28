@@ -2,7 +2,7 @@
 
 -----
 
-## Titles and internal titles
+## Purpose
 
 Identifying healthcare provider candidates for Support during COVID-19 pandemic.
 
